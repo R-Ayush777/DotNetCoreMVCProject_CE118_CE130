@@ -246,8 +246,8 @@ namespace Blackboard.Controllers
             foreach (string email in Emails)
             {
                 //    //Send Mail
-                //    string DigiClassEmailId = "theabcd777@gamil.com";
-                //    string DigiClassPassword = "@abcdra777";
+                //    string DigiClassEmailId = "";
+                //    string DigiClassPassword = "";
                 //    MimeMessage message = new MimeMessage();
                 //    MailboxAddress from = new MailboxAddress(user.UserName, DigiClassEmailId);
                 //    message.From.Add(from);
